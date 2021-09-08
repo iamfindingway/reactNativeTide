@@ -14,7 +14,7 @@ A public blockchain infrastructure aiming to facilitate Internet level large-sca
 
 <div class="link-list">
     <a class="link-item" target="_blank" href="https://0.plus/Thinkiumofficial">
-        <img src="https://thinkiumdev.net/res/wiki/icon/Btok.png" alt="1" style="zoom:25%;" />
+        <img src="https://thinkiumdev.net/res/wiki/icon/Btok.png" alt="1" width="25" height="25"  />
         <span>Btok</span>
     </a>
     <a class="link-item" target="_blank" href="https://twitter.com/Thinkium_Chain">
